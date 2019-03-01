@@ -1,30 +1,30 @@
-gitµØÖ·
+gitåœ°å€
 http://192.168.1.211:9090/r/PostLendingMan2.git
-ÕËºÅ£ºwangyong  123456
+è´¦å·ï¼šwangyong  123456
 
-ÏµÍ³µÇÂ¼ÕËºÅ 
-150000 ÃÜÂë£º1
+ç³»ç»Ÿç™»å½•è´¦å· 
+150000 å¯†ç ï¼š1
 
-Êı¾İ¿â
+æ•°æ®åº“
 <add name="mySQL" connectionString="server=192.168.1.211;user id=webUser; password=huisiyun@2016ForJingtai; database=postlendingman;Max Pool Size=1024; 
 pooling=true;" providerName="MySql.Data.MySqlClient"/>
 
-´ûºó±í
-¿â postlendingman
-±í d_bizmain
+è´·åè¡¨
+åº“ postlendingman
+è¡¨ d_bizmain
 
 
-²Î¿¼Ò³Ãæ
-postDiYa.cshtml  µÖÑº×ÊÁÏ¼ÄËÍ
-´ú°ì´ßÊÕ TakeBackController.cs 
+å‚è€ƒé¡µé¢
+postDiYa.cshtml  æŠµæŠ¼èµ„æ–™å¯„é€
+ä»£åŠå‚¬æ”¶ TakeBackController.cs 
 TakeBackList
 
 
-²½Öè
-Ò»¡¢ Êı¾İ°ó¶¨ È¡d_bizmain±íÊı¾İ
+æ­¥éª¤
+ä¸€ã€ æ•°æ®ç»‘å®š å–d_bizmainè¡¨æ•°æ®
 
 
-µÖÑº·ÅÔÚÏµÍ³¹ÜÀí²Ëµ¥ÏÂ
+æŠµæŠ¼æ”¾åœ¨ç³»ç»Ÿç®¡ç†èœå•ä¸‹
 ajaxfileupload.js
 
 
@@ -33,3 +33,4 @@ http://www.cnblogs.com/JoeSnail/p/8391812.html
 
 
 change
+change2
