@@ -1,0 +1,31 @@
+git地址
+http://192.168.1.211:9090/r/PostLendingMan2.git
+账号：wangyong  123456
+
+系统登录账号 
+150000 密码：1
+
+数据库
+<add name="mySQL" connectionString="server=192.168.1.211;user id=webUser; password=huisiyun@2016ForJingtai; database=postlendingman;Max Pool Size=1024; 
+pooling=true;" providerName="MySql.Data.MySqlClient"/>
+
+贷后表
+库 postlendingman
+表 d_bizmain
+
+
+参考页面
+postDiYa.cshtml  抵押资料寄送
+代办催收 TakeBackController.cs 
+TakeBackList
+
+
+步骤
+一、 数据绑定 取d_bizmain表数据
+
+
+抵押放在系统管理菜单下
+ajaxfileupload.js
+
+
+http://www.cnblogs.com/JoeSnail/p/8391812.html
